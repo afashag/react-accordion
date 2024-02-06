@@ -1,0 +1,13 @@
+.accord-title{
+    border: 1px solid black;
+    font-size: 30px
+}
+.accord-text{
+    
+    display: none;
+}
+
+.accord-text-active{
+    display: block;
+    font-size: 25px;
+}
